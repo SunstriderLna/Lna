@@ -1,2 +1,2 @@
 # Lna
-测试用
+Test only
